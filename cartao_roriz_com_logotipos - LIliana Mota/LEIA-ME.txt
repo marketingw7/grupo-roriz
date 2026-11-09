@@ -1,0 +1,21 @@
+CARTÃO DIGITAL GRUPO RORIZ / W7 — TEMPLATE COM LOGÓTIPOS
+
+1. Abre index.html no Chrome para veres o cartão.
+2. Para editar, abre index.html num editor de texto (por exemplo, VS Code).
+3. Procura a expressão "ÁREA PARA EDITAR" junto ao fim do ficheiro.
+4. Altera os dados de `comercial` (nome, cargo, telefone, email, foto).
+5. No objeto `marcas`, insere o link dos dois catálogos, os sites e as moradas.
+6. Guarda, recarrega no Chrome (Ctrl+F5) e verifica os botões.
+7. Para outro comercial, duplica A PASTA COMPLETA e altera só `comercial`.
+
+IMAGENS:
+- assets/cabecalho.jpg: banner atual do modelo (podes substituí-lo pela tua imagem personalizada com o MESMO nome).
+- assets/logo-roriz.png e assets/logo-w7.png: logótipos de demonstração recortados do cabeçalho que já tinhas.
+  Recomenda-se substituí-los pelos PNG oficiais e transparentes da empresa, com os mesmos nomes.
+- Para fotografia, coloca assets/foto.jpg e define `foto: 'assets/foto.jpg'`.
+
+IMPORTANTE:
+- Os links de catálogos, o website da Roriz e as moradas ficaram vazios, para não inventar dados.
+- Os blocos com dados por preencher aparecem na pré-visualização identificados como tal e sem links.
+- Antes de publicares o cartão e imprimires o QR Code, completa todos os dados e testa em telemóvel.
+- Este ficheiro não publica o site na Internet por si só; é necessário alojamento, como GitHub Pages.
